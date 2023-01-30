@@ -75,8 +75,7 @@ function SetModalParams(id){
         elem= document.getElementById("modal-videoiframe");
         if(ProjectDetail.EmbedVideoLinkID){
             $(elem).show();
-            var path = "../Videos/"+ProjectDetail.ID+".mp4";
-            elem.setAttribute('src',path);  
+            elem.setAttribute('src',ProjectDetail.EmbedVideoLinkID);  
             elem.setAttribute('onload',"hideLoader()");
         }
         else{

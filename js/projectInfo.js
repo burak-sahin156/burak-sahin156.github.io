@@ -6,7 +6,7 @@ const Projects = {
             SmallDescription: "Android,Runner,Unity3D",
             LargeDescription: "",
             DownloadLink: "",
-            EmbedVideoLinkID: "BridgeRunner",
+            EmbedVideoLinkID: "https://www.youtube.com/embed/KFnVEfltmLs",
             NoOfProjectImages: 7
         },
         BattleHero: {
@@ -14,7 +14,7 @@ const Projects = {
             Name: "Battle Hero Demo",
             SmallDescription: "Android, Arcade, Unity3D",
             LargeDescription: "",
-            EmbedVideoLinkID: "BattleHero",
+            EmbedVideoLinkID: "https://www.youtube.com/embed/gCeL_qzeB9A",
             NoOfProjectImages: 7
         },
         SwordRunner: {
@@ -23,7 +23,7 @@ const Projects = {
             SmallDescription: "Android, Endless Runner, Unity3D",
             LargeDescription: '',
             DownloadLink: "",
-            EmbedVideoLinkID: "SwordRunner",
+            EmbedVideoLinkID: "https://www.youtube.com/embed/Z4V-5ezM9bo",
             NoOfProjectImages: 3
         },
         CircusCharlie: {
@@ -32,7 +32,7 @@ const Projects = {
             SmallDescription: "Published Android Game, Unity3D, C#",
             LargeDescription: "",
             DownloadLink: "",
-            EmbedVideoLinkID: "CircusCharlie",
+            EmbedVideoLinkID: "https://www.youtube.com/embed/Hg2ln8TC2Ms",
             NoOfProjectImages: 5
         },
         CoffeGameIdea: {
@@ -41,7 +41,7 @@ const Projects = {
             SmallDescription: "Android Game, C#, Hybrid Casual, Unity3D, Idle",
             LargeDescription: '',
             DownloadLink: "",
-            EmbedVideoLinkID: "CoffeGameIdea",
+            EmbedVideoLinkID: "https://www.youtube.com/embed/vqvwqUdMEIw",
             NoOfProjectImages: 8
         },        
         DonerTacoKebapMaster: {
@@ -50,7 +50,7 @@ const Projects = {
             SmallDescription: "Android Game, C#, Unity3D, Hybrid Casual, Idle",
             LargeDescription: '',
             DownloadLink: "",
-            EmbedVideoLinkID: "DonerTacoKebapMaster",
+            EmbedVideoLinkID: "https://www.youtube.com/embed/mgXTy_m_jSw",
             NoOfProjectImages: 11
         },
     }
