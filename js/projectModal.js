@@ -1,9 +1,10 @@
 var RankedProjects=[
+    Projects.Details.VibeChanger,
+    Projects.Details.DonerTacoKebapMaster,
+    Projects.Details.CoffeGameIdea,
     Projects.Details.HellBridgeRunner,
     Projects.Details.SwordRunner,
     Projects.Details.BattleHero,
-    Projects.Details.CoffeGameIdea,
-    Projects.Details.DonerTacoKebapMaster,
     Projects.Details.CircusCharlie
 ];
 //Functions

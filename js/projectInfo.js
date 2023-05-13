@@ -1,5 +1,14 @@
 const Projects = {
-    Details:{ 
+    Details: {
+        VibeChanger: {
+            ID: "VibeChanger",
+            Name: "VibeChanger",
+            SmallDescription: "Hyper Casual,Unity3D",
+            LargeDescription: "An entertaining, relaxing, and musicful hypercasual game",
+            DownloadLink: "https://srknylmz.itch.io/vibechanger",
+            EmbedVideoLinkID: "https://www.youtube.com/embed/Ffkf0FWqjX8",
+            NoOfProjectImages: 0
+        },
         HellBridgeRunner: {
             ID: "HellBridgeRunner",
             Name: "Hell Bridge Runner Demo",
@@ -43,7 +52,7 @@ const Projects = {
             DownloadLink: "",
             EmbedVideoLinkID: "https://www.youtube.com/embed/vqvwqUdMEIw",
             NoOfProjectImages: 8
-        },        
+        },
         DonerTacoKebapMaster: {
             ID: "DonerTacoKebapMaster",
             Name: "Doner Taco Kebap Master",
