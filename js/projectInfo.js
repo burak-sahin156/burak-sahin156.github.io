@@ -2,7 +2,7 @@ const Projects = {
     Details: {
         VibeChanger: {
             ID: "VibeChanger",
-            Name: "VibeChanger",
+            Name: "Vibe Changer Game",
             SmallDescription: "Hyper Casual,Unity3D",
             LargeDescription: "An entertaining, relaxing, and musicful hypercasual game",
             DownloadLink: "https://srknylmz.itch.io/vibechanger",
