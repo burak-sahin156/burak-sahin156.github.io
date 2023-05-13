@@ -7,7 +7,7 @@ const Projects = {
             LargeDescription: "An entertaining, relaxing, and musicful hypercasual game",
             DownloadLink: "https://srknylmz.itch.io/vibechanger",
             EmbedVideoLinkID: "https://www.youtube.com/embed/Ffkf0FWqjX8",
-            NoOfProjectImages: 0
+            NoOfProjectImages: 1
         },
         HellBridgeRunner: {
             ID: "HellBridgeRunner",
