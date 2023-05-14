@@ -3,6 +3,7 @@ const Projects = {
         VibeChanger: {
             ID: "VibeChanger",
             Name: "Vibe Changer Game",
+            LogoName: "thumb.PNG",
             SmallDescription: "Hyper Casual,Unity3D",
             LargeDescription: "An entertaining, relaxing, and musicful hypercasual game",
             DownloadLink: "https://srknylmz.itch.io/vibechanger",
@@ -12,6 +13,7 @@ const Projects = {
         HellBridgeRunner: {
             ID: "HellBridgeRunner",
             Name: "Hell Bridge Runner Demo",
+            LogoName: "thumb.png",
             SmallDescription: "Android,Runner,Unity3D",
             LargeDescription: "",
             DownloadLink: "",
@@ -21,6 +23,7 @@ const Projects = {
         BattleHero: {
             ID: "BattleHero",
             Name: "Battle Hero Demo",
+            LogoName: "thumb.png",
             SmallDescription: "Android, Arcade, Unity3D",
             LargeDescription: "",
             EmbedVideoLinkID: "https://www.youtube.com/embed/gCeL_qzeB9A",
@@ -29,6 +32,7 @@ const Projects = {
         SwordRunner: {
             ID: "SwordRunner",
             Name: "Sword Runner Demo",
+            LogoName: "thumb.png",
             SmallDescription: "Android, Endless Runner, Unity3D",
             LargeDescription: '',
             DownloadLink: "",
@@ -38,6 +42,7 @@ const Projects = {
         CircusCharlie: {
             ID: "CircusCharlie",
             Name: "Circus Charlie Demo",
+            LogoName: "thumb.png",
             SmallDescription: "Published Android Game, Unity3D, C#",
             LargeDescription: "",
             DownloadLink: "",
@@ -47,6 +52,7 @@ const Projects = {
         CoffeGameIdea: {
             ID: "CoffeGameIdea",
             Name: "Coffe Game Idea Demo",
+            LogoName: "thumb.png",
             SmallDescription: "Android Game, C#, Hybrid Casual, Unity3D, Idle",
             LargeDescription: '',
             DownloadLink: "",
@@ -56,6 +62,7 @@ const Projects = {
         DonerTacoKebapMaster: {
             ID: "DonerTacoKebapMaster",
             Name: "Doner Taco Kebap Master",
+            LogoName: "thumb.png",
             SmallDescription: "Android Game, C#, Unity3D, Hybrid Casual, Idle",
             LargeDescription: '',
             DownloadLink: "",
