@@ -3,7 +3,7 @@ const Projects = {
         FlurryFood: {
             ID: "FlurryFood",
             Name: "Flurry Food Game Demo",
-            LogoName: "thumb.PNG",
+            LogoName: "thumb.png",
             SmallDescription: "Hyper Casual ,Unity3D",
             LargeDescription: "",
             DownloadLink: "",
@@ -13,7 +13,7 @@ const Projects = {
         MobileRPG: {
             ID: "MobileRPG",
             Name: "Mobile Fantasy Role Play Game",
-            LogoName: "thumb.PNG",
+            LogoName: "thumb.png",
             SmallDescription: "RPG ,Unity3D",
             LargeDescription: "",
             DownloadLink: "",
