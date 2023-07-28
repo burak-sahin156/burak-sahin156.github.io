@@ -1,5 +1,25 @@
 const Projects = {
     Details: {
+        FlurryFood: {
+            ID: "FlurryFood",
+            Name: "Flurry Food Game Demo",
+            LogoName: "thumb.PNG",
+            SmallDescription: "Hyper Casual ,Unity3D",
+            LargeDescription: "",
+            DownloadLink: "",
+            EmbedVideoLinkID: "https://www.youtube.com/embed/zqKvsNc3BIY",
+            NoOfProjectImages: 1
+        },
+        MobileRPG: {
+            ID: "MobileRPG",
+            Name: "Mobile Fantasy Role Play Game",
+            LogoName: "thumb.PNG",
+            SmallDescription: "RPG ,Unity3D",
+            LargeDescription: "",
+            DownloadLink: "",
+            EmbedVideoLinkID: "https://www.youtube.com/embed/nuvXZNMueiU",
+            NoOfProjectImages: 1
+        },
         VibeChanger: {
             ID: "VibeChanger",
             Name: "Vibe Changer Game",

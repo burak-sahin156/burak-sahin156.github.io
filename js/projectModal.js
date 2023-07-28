@@ -1,4 +1,6 @@
 var RankedProjects = [
+    Projects.Details.FlurryFood,
+    Projects.Details.MobileRPG,
     Projects.Details.VibeChanger,
     Projects.Details.DonerTacoKebapMaster,
     Projects.Details.CoffeGameIdea,
